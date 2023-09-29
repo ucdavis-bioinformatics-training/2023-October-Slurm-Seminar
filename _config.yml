@@ -1,13 +1,32 @@
 theme: jekyll-theme-minimal
-title: 'UC Davis Bioinformatics Workshop Base Template'
+title: 'UC Davis Slurm Workshop'
 show_downloads: True
 google_analytics: True
 navigation:
   - title: Home
     url: /
 
-  - heading: Introduction
-  - title: Intro to the Workshop and Core
-    url: welcome
-  - title: Examples of Markdown Formatting
-    url: examples
+  - heading: Slurm
+  - title: Intro
+    url: cluster_training/intro
+  - title: Cluster
+    url: cluster_training/cluster
+  - title: Onboard
+    url: cluster_training/hpc_core_onboard
+  - title: Modules
+    url: cluster_training/modules
+  # - title: Priority
+  #   url: cluster_training/priority
+  # - title: Q Commands
+  #   url: cluster_training/q_commands
+  # - title: S Commands
+  #   url: cluster_training/s_commands
+  - title: Scheduler
+    url: cluster_training/scheduler
+  # - title: Transfer
+  #   url: cluster_training/transfer
+  - title: Rules
+    url: cluster_training/rules
+  - title: Contact
+    url: cluster_training/contact
+

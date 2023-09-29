@@ -1,0 +1,28 @@
+What is a cluster?
+
+
+Definitions
+
+- Node
+- Head node
+- Login node
+- Slot
+- Interconnect
+- Socket
+- Core (CPU)
+- Core (memory)
+- Swap 
+- Thrash
+
+Anatomy of a cluster
+
+q* commands
+
+- qsub
+- qlogin
+- qsh
+- qstat
+- qalter
+- qacct
+
+

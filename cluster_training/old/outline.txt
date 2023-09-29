@@ -1,0 +1,39 @@
+Introduction 
+- What is a cluster
+- Why use a cluster
+- Types of clustered applications
+  - Fine grained parallel
+  - Course grained parallel
+  - serial
+
+-Description of Available resources
+ - Genbeo
+ - Shiraz
+
+ - Available software and databases
+ - pdb, blastdb
+ - (get list from brad)
+ - Pathscale compiler (describe license)
+
+-Using the clusters
+
+-how to log in
+-central account
+-web interface
+
+-Commands
+
+ - qsub
+ - qdel
+ - qstat
+ - transfering data with scp, sftp, rsync, afs
+ - Compiling (gcc, mpi, pathscale)
+
+-Things to do
+ - Checkpoint!
+ - Use the local storage on the nodes for intermediate results
+ 
+-Things not to do
+ - Run jobs outside of the batch queue
+ - Run jobs on head node
+ - Simultanious NFS writes from large quantities of nodes
