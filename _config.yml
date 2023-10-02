@@ -27,6 +27,8 @@ navigation:
   #   url: cluster_training/transfer
   - title: Rules
     url: cluster_training/rules
+  - title: Presentation
+    url: cluster_training/cluster.pptx
   - title: Contact
     url: cluster_training/contact
 
